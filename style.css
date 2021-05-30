@@ -1,0 +1,174 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Pattaya&display=swap');
+</style>
+.header {
+	background-color: #421e80;
+	color: white;
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+    background-image: url(https://img5.goodfon.ru/wallpaper/nbig/4/23/kuby-figury-cube-figures-fon-blue-yellow-fon-sinii.jpg);
+}
+
+
+.footer {
+
+background-color: #090085;
+color: white;
+text-align: center;
+line-height: 100px;
+
+}
+
+
+.content
+ {
+	background-color: #090085;
+color: white;
+width:  80%;
+margin: 0 auto;
+text-align: center;
+box-shadow: -webkit-box-shadow: 29px 52px 49px 50px rgba(4, 255, 0, 0.2);
+-moz-box-shadow: 29px 52px 49px 50px rgba(4, 255, 0, 0.2);
+box-shadow: 29px 52px 49px 50px rgba(4, 255, 0, 0.2);
+background-image: url();
+}
+
+body 
+{
+    background-image:url('https://images4.alphacoders.com/817/817111.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1 {
+ margin: 5px 20px;
+ font-size: 60px;
+ color: #1ee000;
+ box-shadow: -webkit-box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+-moz-box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+ }
+  i     {
+color: white;
+height: 1000px;
+width:  80%;
+margin: 0 auto;
+text-align: center;
+line-height: 80px;
+}
+img {
+ width: 200px;
+ margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+}
+
+h2 {
+ margin: 5px 20px;
+ font-size: 20px;
+ color:#34e02b;
+ }
+
+ .postr {
+ 	display: flex;
+ }
+
+ .box {
+ 	background-color: #0001;
+ 	padding: 15px;
+ 	margin: 10px;
+ 	border: 2px solid white;
+ 	box-shadow: 3px 7px 15px black;
+ 	flex-grow: 1;
+ 	transition: 1s;
+
+ }
+.box img {
+
+	width: 300px;
+ margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+   transition: 1s;
+}
+
+ p {
+ color: #1ee000;
+ box-shadow: -webkit-box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+-moz-box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+ }
+
+
+ .cont
+ {
+	background-color: #090085;
+color: white;
+width:  60%;
+margin: 0 auto;
+text-align: center;
+box-shadow: -webkit-box-shadow: 29px 52px 49px 50px rgba(4, 255, 0, 0.2);
+-moz-box-shadow: 29px 52px 49px 50px rgba(4, 255, 0, 0.2);
+box-shadow: 29px 52px 49px 50px rgba(4, 255, 0, 0.2);
+background-image: url();
+line-height: 100px;
+background-color: black;
+ 	padding: 15px;
+ 	margin: 10px;
+ 	border: 2px solid white;
+ 	box-shadow: 3px 7px 15px black;
+ 	flex-grow: 1;
+}
+
+
+.menu ul {
+	list-style: none;
+	color: white;
+	text-align: center;
+}
+
+.menu li {
+	display: inline-block;
+	padding: 25px 50px;
+	color: #1ee000;
+box-shadow: 0px 0px 100px 100px rgba(197, 96, 0, 0.2);
+background-color: #421e80;
+	color: white;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+    background-image: url(https://img2.goodfon.ru/wallpaper/nbig/1/cd/skelet-cherep-temnovatyy-fon.jpg);
+    transition: 1s;
+} 
+.menu li:hover{
+	background-color: white;
+	color: #56fc03;
+
+}
+
+.box:hover{
+	background-color: white;
+	color: #020505;
+
+}
+
+.box p{
+
+font-family: 'Pattaya', sans-serif;
+	
+}
+
+.box a{
+
+font-family: 'Concert One', cursive;
+	
+}
+
+.box img:hover{
+
+	width: 300px;
+ margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+ transform: scale(1.1);
+ 
