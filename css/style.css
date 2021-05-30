@@ -74,14 +74,23 @@ h2 {
  }
 
  .box {
- 	background-color: #0000;
+ 	background-color: #0001;
  	padding: 15px;
  	margin: 10px;
  	border: 2px solid white;
  	box-shadow: 3px 7px 15px black;
  	flex-grow: 1;
+ 	transition: 1s;
 
  }
+.box img {
+
+	width: 300px;
+ margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+   transition: 1s;
+}
 
  p {
  color: #1ee000;
@@ -129,6 +138,7 @@ background-color: #421e80;
 	text-align: center;
 	line-height: 30px;
     background-image: url(https://img2.goodfon.ru/wallpaper/nbig/1/cd/skelet-cherep-temnovatyy-fon.jpg);
+    transition: 1s;
 } 
 .menu li:hover{
 	background-color: white;
@@ -138,7 +148,7 @@ background-color: #421e80;
 
 .box:hover{
 	background-color: white;
-	color: 0#20505;
+	color: #020505;
 
 }
 
@@ -153,3 +163,12 @@ font-family: 'Pattaya', sans-serif;
 font-family: 'Concert One', cursive;
 	
 }
+
+.box img:hover{
+
+	width: 300px;
+ margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+ transform: scale(1.1);
+ 
